@@ -23,7 +23,3 @@ A minimal Python implementation using Pygame.
 1. Live cell with 2-3 neighbors survives
 2. Dead cell with 3 neighbors becomes alive
 3. All other cells die/stay dead
-
-## License
-
-MIT
